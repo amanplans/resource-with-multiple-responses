@@ -1,4 +1,4 @@
-# multiple-responses-in-resource
+# resource-with-multiple-responses
 Demonstrating multiple responses in the resource API
 
 In Angular version v19.2.0-next.0: https://github.com/angular/angular/releases/tag/19.2.0-next.0
@@ -14,4 +14,3 @@ Example 3: I and with the help of Lars, got it working by calling the cat API in
 Example 4: Work in progress. Would be great if had a working example with multiple responses.
 
 Enable/disable examples in main.ts
-"# resource-with-multiple-responses" 
