@@ -1,5 +1,4 @@
 import { Component, signal, resource, inject } from "@angular/core";
-import { rxResource } from "@angular/core/rxjs-interop";
 import { Cat } from "./cat.model";
 import { interval, Observable, take } from "rxjs";
 import { HttpClient } from "@angular/common/http";
