@@ -58,6 +58,6 @@ export class Example5Component {
   }
 
   protected readonly resource = resource<Cat[], Cat[]>({
-    stream: async () => this.cats,
+    stream: async () => this.cats
   });
 }

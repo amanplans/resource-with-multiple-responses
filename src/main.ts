@@ -20,8 +20,8 @@ import { Example5Component } from "./example-5.component";
     <p>Version: {{ version() }}</p>
     <!-- <app-example-1></app-example-1> -->
     <app-example-2></app-example-2>
-    <!-- <app-example-3></app-example-3> -->
-    <!-- <app-example-4></app-example-4> -->
+    <app-example-3></app-example-3>
+    <app-example-4></app-example-4>
      <app-example-5></app-example-5>
   `,
 })
